@@ -1,2 +1,2 @@
-# SpectrumV
-Made a simple spectrum using HTML and CSS
+# HTML CSS BOOTSTRAP 
+I have made a repository to show case my simple web development projects using HTML CSS and BOOTSTRAP
