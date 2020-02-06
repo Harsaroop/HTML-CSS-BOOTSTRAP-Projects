@@ -1,0 +1,34 @@
+h1{
+    font-family: 'Lobster Two', cursive;
+}
+body{
+  background-color: #011627;
+  color: #FDFFFC;
+  font-family: 'Lobster Two', cursive;
+  border: 60px solid #2EC4B6;
+  border-top:0px;
+  text-align: center;
+  margin: 0px;
+}
+
+p{
+  color: #FDFFFC;
+  padding-top:5%;
+  padding-left:15%;
+  padding-right:15%;
+}
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#submit{
+  background-color: #FF9F1C;
+  height: 70px;
+  width: 120px;
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 0.80em;
+  border-radius: 25px;
+}
