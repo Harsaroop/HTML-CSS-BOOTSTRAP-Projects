@@ -1,0 +1,12 @@
+.Board button{
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin: 1px;
+  border: 4px solid black;
+  ;border-radius: 50%
+}
+
+.container {
+  background-color: "#B0D1F3"
+}
